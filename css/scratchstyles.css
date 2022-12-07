@@ -1,0 +1,47 @@
+.header{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkblue;
+    text-align: center;
+}
+.list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    color: black;
+}
+.subheader{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+.listheader{
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+.img{
+    border: 3px;
+    border-width: 3px;
+    padding: 3px;
+    border-style: solid;
+}
+.pagebackground{
+    background-color: azure;
+}
+.links{
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkblue;
+    font-weight: bold;
+}
+.vid{
+    border: 3px;
+    border-width: 3px;
+    padding: 3px;
+    border-style: solid;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.tableauheader{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: teal;
+    text-align: center;
+}
